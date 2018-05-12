@@ -1,0 +1,27 @@
+_repo: The-Australian-ExplorersTheir-Labours-Perils-and-Achievements_41270
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41270-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Grimm, George
+    gutenberg_agent_id: '41081'
+    url: http://www.gutenberg.org/2009/agents/41081
+description: ''
+gutenberg_issued: '2012-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41270'
+  lccn: '04002213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Explorers -- Australia'
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcc 'DU'
+title: "The Australian Explorers: Their Labours, Perils, and Achievements\r\nBeing\
+  \ a Narrative of Discovery from the Landing of Captain Cook to the Centennial Year"
+url: http://www.gutenberg.org/ebooks/41270
